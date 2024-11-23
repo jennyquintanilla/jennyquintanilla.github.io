@@ -1,0 +1,49 @@
+@charset "utf-8";
+h5   {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+main section .text-center {
+    font-style: normal;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+.btn.btn-primary {
+    background-color: #AC4DB1;
+}
+.card-body  {
+    background-color: #D4C2D6;
+}
+
+
+
+.img_carf {
+    margin-top: 20px;
+}
+.margenesp {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 0.9em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.animate__animate {
+}
+.row.pie {
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 20px;
+}
+
+.animate__fadeinleft {
+}
+.animate__fadeInLeft {
+}
+.h5titulo {
+}
+.container #carouselExampleIndicators1 .carousel-inner.offset-xl-0.col-xl-12 {
+    background-color: #D4C2D6;
+}
